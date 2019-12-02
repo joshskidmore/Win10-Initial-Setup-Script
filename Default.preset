@@ -158,7 +158,7 @@ HideSyncNotifications           # ShowSyncNotifications
 HideRecentShortcuts             # ShowRecentShortcuts
 SetExplorerThisPC               # SetExplorerQuickAccess
 ShowQuickAccess                 # HideQuickAccess
-HideRecycleBinFromDesktop       # ShowRecycleBinOnDesktop
+ShowRecycleBinOnDesktop         # HideRecycleBinOnDesktop
 ShowThisPCOnDesktop             # HideThisPCFromDesktop
 # ShowUserFolderOnDesktop       # HideUserFolderFromDesktop
 # ShowControlPanelOnDesktop     # HideControlPanelFromDesktop
